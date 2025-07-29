@@ -1,0 +1,6 @@
+1- git add
+  serve para preparar arquivos modificados para o commit
+2- git revert
+  serve para  desfazer um commit
+3- git commit
+  serve para salvar as mudancas adicionadas

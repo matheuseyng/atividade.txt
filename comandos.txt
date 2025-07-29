@@ -1,0 +1,19 @@
+1- echo > nome do arquivo
+  escreve o conteudo em um novo arquivo
+
+  
+2- git diff
+  serve para mostrar as diferencas do arquivo atual em comparacao ao ultimo commit
+
+
+3- git log
+  serve para mostrar o historico de commit realizados
+
+
+4- git status
+  serve para mostrar o status atual dos arquivos no repositorio
+
+
+5- mkdir nome-da-past 
+  cria uma pasta no repositorio que esta o terminal
+
